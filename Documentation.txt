@@ -1,0 +1,20 @@
+Ortal FrameWork
+***************
+
+@ By		: Nishad
+@ Date		: 07/01/2014
+@ Type		: Common Framework
+
+Important Notes
+---------------
+
+Settings.json will describe the database, 
+
+Title[			-  Page name, Title head, Item name
+--Description	-  This will shown as the discription of the item
+--Fields[		-  This is a sub array, which will list all of the fields associated with it.
+ ---name		-  Name of the field for html element and database entry
+ ---type		-  This will set input field type
+ ---required	-  0 or 1 to determine whether the field is required for the submission or not
+--]
+]
